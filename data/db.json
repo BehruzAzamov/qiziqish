@@ -1,0 +1,246 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "img": "https://avatars.mds.yandex.net/i?id=010b521d35a4c22097789538e300abd2deb02df8-12571073-images-thumbs&n=13",
+      "type": "Italian",
+      "ingredients": [
+        "dough",
+        "tomato sauce",
+        "mozzarella cheese",
+        "pepperoni",
+        "olives"
+      ],
+      "calories": 285,
+      "price": 12.99,
+      "description": "Pizza - A delicious Italian dish consisting of dough, tomato sauce, mozzarella cheese, pepperoni, and olives. It has 285 calories and is priced at $12.99."
+    },
+    {
+      "id": 2,
+      "name": "Sushi",
+      "img": "https://avatars.mds.yandex.net/i?id=efe00e8c450be49d3830050292f5afcf1d157e9b-12472657-images-thumbs&n=13",
+      "type": "Japanese",
+      "ingredients": [
+        "rice",
+        "fish",
+        "seaweed",
+        "soy sauce",
+        "wasabi",
+        "ginger"
+      ],
+      "calories": 330,
+      "price": 19.99,
+      "description": "Sushi - A popular Japanese dish made with rice, fish, seaweed, soy sauce, wasabi, and ginger. It contains 330 calories and is priced at $19.99. "
+    },
+    {
+      "id": 3,
+      "name": "Tacos",
+      "img": "https://avatars.mds.yandex.net/i?id=5a1945c08e4b60f8c070d505fe6bfbf7d3f4d164-12529201-images-thumbs&n=13",
+      "type": "Mexican",
+      "ingredients": [
+        "tortillas",
+        "beef",
+        "lettuce",
+        "tomato",
+        "cheese",
+        "salsa"
+      ],
+      "calories": 450,
+      "price": 8.99,
+      "description": "Tacos - A Mexican specialty featuring tortillas, beef, lettuce, tomato, cheese, and salsa. It has 450 calories and is priced at $8.99."
+    },
+    {
+      "id": 4,
+      "name": "Burger",
+      "img": "https://avatars.mds.yandex.net/i?id=1e1c83c7612b9b8cd926609135fd2c31d233633b-4546420-images-thumbs&n=13",
+      "type": "American",
+      "ingredients": [
+        "beef patty",
+        "bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles"
+      ],
+      "calories": 550,
+      "price": 9.99,
+      "description": "Burger - An American classic consisting of a beef patty, bun, lettuce, tomato, onion, and pickles. It contains 550 calories and is priced at $9.99.      "
+    },
+    {
+      "id": 5,
+      "name": "Pad Thai",
+      "img": "https://avatars.mds.yandex.net/i?id=7d32f9b57e773e628c325b8acdfe27c414c822c5-10501287-images-thumbs&n=13",
+      "type": "Thai",
+      "ingredients": [
+        "rice noodles",
+        "shrimp",
+        "tofu",
+        "bean sprouts",
+        "peanuts",
+        "tamarind sauce"
+      ],
+      "calories": 400,
+      "price": 14.99,
+      "description": "Pad Thai - A flavorful Thai dish made with rice noodles, shrimp, tofu, bean sprouts, peanuts, and tamarind sauce. It has 400 calories and is priced at $14.99.      "
+    },
+    {
+      "id": 6,
+      "name": "Croissant",
+      "img": "https://avatars.mds.yandex.net/i?id=86e97babb49fb126b3fe968737f3e0a593c70044-12168744-images-thumbs&n=13",
+      "type": "French",
+      "ingredients": ["flour", "butter", "yeast", "sugar", "salt", "egg wash"],
+      "calories": 230,
+      "price": 3.99,
+      "description": "Croissant - A beloved French pastry made with flour, butter, yeast, sugar, salt, and egg wash. It contains 230 calories and is priced at $3.99.      "
+    },
+    {
+      "id": 7,
+      "name": "Sushi",
+      "img": "https://avatars.mds.yandex.net/i?id=79cd1417b500e7f59a0a6870ddb82a09bcdc1f9a-12421631-images-thumbs&n=13",
+      "type": "Japanese",
+      "ingredients": [
+        "rice",
+        "fish",
+        "seaweed",
+        "soy sauce",
+        "wasabi",
+        "ginger"
+      ],
+      "calories": 330,
+      "price": 19.99,
+      "description": "Sushi - (Duplicate entry) - A popular Japanese dish made with rice, fish, seaweed, soy sauce, wasabi, and ginger. It contains 330 calories and is priced at $19.99.      "
+    },
+    {
+      "id": 8,
+      "name": "Pasta Carbonara",
+      "img": "https://avatars.mds.yandex.net/i?id=627555a9ff1c0333ac01f1328e943c62f7103e7a-10814799-images-thumbs&n=13",
+      "type": "Italian",
+      "ingredients": [
+        "spaghetti",
+        "eggs",
+        "guanciale",
+        "pecorino cheese",
+        "black pepper"
+      ],
+      "calories": 680,
+      "price": 15.99,
+      "description": "Pasta Carbonara - An Italian pasta dish featuring spaghetti, eggs, guanciale, pecorino cheese, and black pepper. It has 680 calories and is priced at $15.99.      "
+    },
+    {
+      "id": 9,
+      "name": "Caesar Salad",
+      "img": "https://avatars.mds.yandex.net/i?id=2faca21be0fd6666c48555eba33b69a878c69aea-12373778-images-thumbs&n=13",
+      "type": "American",
+      "ingredients": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan cheese",
+        "lemon juice",
+        "olive oil",
+        "egg",
+        "Worcestershire sauce"
+      ],
+      "calories": 350,
+      "price": 10.99,
+      "description": "Caesar Salad - An American favorite made with romaine lettuce, croutons, parmesan cheese, lemon juice, olive oil, egg, and Worcestershire sauce. It contains 350 calories and is priced at $10.99.      "
+    },
+    {
+      "id": 10,
+      "name": "Gyoza",
+      "img": "https://avatars.mds.yandex.net/i?id=4e2380cf94a9f0fa60da527dfd80844e4fa3a861-10698321-images-thumbs&n=13",
+      "type": "Japanese",
+      "ingredients": [
+        "pork",
+        "cabbage",
+        "garlic",
+        "ginger",
+        "soy sauce",
+        "sesame oil"
+      ],
+      "calories": 250,
+      "price": 7.99,
+      "description": "Gyoza - A Japanese dumpling filled with pork, cabbage, garlic, ginger, soy sauce, and sesame oil. It has 250 calories and is priced at $7.99.      "
+    },
+    {
+      "id": 11,
+      "name": "Hamburger",
+      "img": "https://avatars.mds.yandex.net/i?id=57f337fd7ecd0e153b7b2b1a9d821d1128b1f7d2-12421931-images-thumbs&n=13",
+      "type": "American",
+      "ingredients": [
+        "beef patty",
+        "bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles"
+      ],
+      "calories": 520,
+      "price": 8.99,
+      "description": "Hamburger - Another American classic consisting of a beef patty, bun, lettuce, tomato, onion, and pickles. It contains 520 calories and is priced at $8.99.      "
+    },
+    {
+      "id": 12,
+      "name": "Pho",
+      "img": "https://avatars.mds.yandex.net/i?id=708c87b20b8fb24e4cf64b02b67fcfb6160a00c7-8497235-images-thumbs&n=13",
+      "type": "Vietnamese",
+      "ingredients": [
+        "rice noodles",
+        "beef broth",
+        "beef slices",
+        "bean sprouts",
+        "basil",
+        "lime",
+        "jalapeno"
+      ],
+      "calories": 300,
+      "price": 11.99,
+      "description": "Pho - A Vietnamese noodle soup made with rice noodles, beef broth, beef slices, bean sprouts, basil, lime, and jalapeno. It has 300 calories and is priced at $11.99.      "
+    },
+    {
+      "id": 13,
+      "name": "Maki Rolls",
+      "img": "https://avatars.mds.yandex.net/i?id=caa5fad8fc581f4fe3900e3a86811ad019f4297b-9065777-images-thumbs&n=13",
+      "type": "Japanese",
+      "ingredients": [
+        "rice",
+        "seaweed",
+        "fish",
+        "vegetables",
+        "soy sauce",
+        "wasabi",
+        "ginger"
+      ],
+      "calories": 250,
+      "price": 16.99,
+      "description": "Maki Rolls - A type of Japanese sushi roll made with rice, seaweed, fish, vegetables, soy sauce, wasabi, and ginger. It contains 250 calories and is priced at $16.99.      "
+    },
+    {
+      "id": 14,
+      "name": "Tikka Masala",
+      "img": "https://avatars.mds.yandex.net/i?id=168d4be0f081b7f236a0cb1241379a60661dc99f-10995513-images-thumbs&n=13",
+      "type": "Indian",
+      "ingredients": [
+        "chicken",
+        "yogurt",
+        "tomato sauce",
+        "cream",
+        "spices",
+        "rice"
+      ],
+      "calories": 480,
+      "price": 17.99,
+      "description": "Tikka Masala - An Indian dish made with chicken, yogurt, tomato sauce, cream, spices, and rice. It contains 480 calories and is priced at $17.99.      "
+    },
+    {
+      "id": 15,
+      "name": "Palov",
+      "img": "https://avatars.mds.yandex.net/i?id=1a9f5d005b13e3455aa571a8ec0691483b190480-12661486-images-thumbs&n=13",
+      "type": "Uzbek",
+      "ingredients": ["rice", "vegetable frying oil", "carrot ", "onions"],
+      "calories": 620,
+      "price": 13.99,
+      "description": "Palov - A traditional Uzbek rice dish made with vegetable frying oil, carrot, and onions. It contains 620 calories and is priced at $13.99.      "
+    }
+  ]
+}

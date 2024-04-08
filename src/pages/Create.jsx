@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { toast } from "react-hot-toast";
 
 function Create() {
   const [ingredient, setIngredient] = useState("");
@@ -13,14 +14,14 @@ function Create() {
   const addIngredient = (e) => {
     e.preventDefault();
     if (ingredient.trim() === "") {
-      alert("Please enter an ingredient");
+      toast.error("Please enter an ingredient");
     } else if (!ingredients.includes(ingredient)) {
       setIngredients((prev) => {
         return [...prev, ingredient];
       });
-      alert("Successfully toasted!");
+      toast.success("Successfully toasted!");
     } else {
-      alert("Ingredient already exists");
+      toast.error("Ingredient already exists");
     }
     setIngredient("");
   };

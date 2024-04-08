@@ -275,6 +275,24 @@
       ],
       "description": "31efsfsf",
       "id": 17
+    },
+    {
+      "name": "acsZ",
+      "img": "Vercel:https://qiziqish.vercel.app/ Github:https://github.com/BehruzAzamov/qiziqish",
+      "type": "sassa",
+      "price": "12",
+      "ingredients": [],
+      "description": "cda",
+      "id": 18
+    },
+    {
+      "name": "acsZ",
+      "img": "Vercel:https://qiziqish.vercel.app/ Github:https://github.com/BehruzAzamov/qiziqish",
+      "type": "sassa",
+      "price": "12",
+      "ingredients": [],
+      "description": "cda",
+      "id": 19
     }
   ]
 }
